@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0051-n-queens](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1260-shift-2d-grid) |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
