@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
