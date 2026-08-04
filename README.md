@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0875-koko-eating-bananas](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0875-koko-eating-bananas](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
