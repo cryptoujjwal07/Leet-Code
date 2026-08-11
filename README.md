@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 ## Binary Search
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0070-climbing-stairs) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3643-flip-square-submatrix-vertically) |
