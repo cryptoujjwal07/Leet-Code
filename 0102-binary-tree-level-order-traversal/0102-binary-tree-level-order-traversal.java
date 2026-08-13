@@ -20,16 +20,25 @@ class Solution {
 
         if(root == null)return ll;
         queue.offer(root);
-        while(!queue.isEmpty()){
-            int level = queue.size();
-            List<Integer> subll = new ArrayList<>();
-            for(int i = 0 ; i < level ; i++){
-                if(queue.peek().left != null)queue.offer(queue.peek().left);
-                if(queue.peek().right != null)queue.offer(queue.peek().right);
+        queue.offer(null);
+        List<Integer> level = new ArrayList<>();
 
-                subll.add(queue.poll().val);
+
+        while(!queue.isEmpty()){
+            TreeNode curr = queue.poll();
+            if(curr == null){
+                ll.add(level);
+                level = new ArrayList<>();
+
+                if(!queue.isEmpty()){
+                    queue.offer(null);
+                }
             }
-            ll.add(subll);
+            else{
+                level.add(curr.val);
+                if(curr.left != null)queue.offer(curr.left); 
+                if(curr.right != null)queue.offer(curr.right); 
+            }
         }
         return ll;
     }
