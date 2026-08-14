@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0477-total-hamming-distance) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3643-flip-square-submatrix-vertically) |
 ## Tree
