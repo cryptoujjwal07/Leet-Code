@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3643-flip-square-submatrix-vertically) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0477-total-hamming-distance) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
 | ------- |
