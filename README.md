@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0070-climbing-stairs) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0257-binary-tree-paths](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
