@@ -28,9 +28,8 @@ class Solution {
             ll.add(s);
             return;
         }
-
-        s+= "->";
-        dfs(root.left , s , ll);
-        dfs(root.right , s , ll);
+        s += "->";
+        dfs(root.left , s ,ll);
+        dfs(root.right , s ,ll);
     }
 }
