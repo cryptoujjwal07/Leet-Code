@@ -18,18 +18,21 @@ class Solution {
         ArrayList<Integer> ll = new ArrayList<>();
         inOrder(root , ll);
 
-        for(int i =0 ; i < ll.size()-1 ; i++){
-            int sum = 0;
-            for(int j = i+1 ; j < ll.size() ; j++){
-                sum += ll.get(i) + ll.get(j);
-                if(sum == k){
-                    return true;
-                }
-                else{
-                    sum = 0;
-                }
+        int l = 0;
+        int r = ll.size() - 1;
+
+        while (l < r) {
+            int sum = ll.get(l) + ll.get(r);
+            if(sum == k){
+                return true;
             }
-        } 
+            else if(sum < k){
+                l++;
+            }
+            else{
+                r--;
+            }
+        }
         return false;
     }
     void inOrder(TreeNode root , ArrayList<Integer> ll){
