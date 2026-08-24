@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0257-binary-tree-paths) |
