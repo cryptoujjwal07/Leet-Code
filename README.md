@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0051-n-queens) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3643-flip-square-submatrix-vertically) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2395-find-subarrays-with-equal-sum) |
