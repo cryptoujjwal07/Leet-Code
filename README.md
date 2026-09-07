@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0042-trapping-rain-water) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
