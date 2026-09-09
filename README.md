@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0036-valid-sudoku) |
+| [0994-rotting-oranges](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3643-flip-square-submatrix-vertically) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
