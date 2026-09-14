@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0477-total-hamming-distance) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -329,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
