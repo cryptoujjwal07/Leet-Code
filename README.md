@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0322-coin-change) |
 | [0477-total-hamming-distance](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0477-total-hamming-distance) |
+| [0518-coin-change-ii](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0740-delete-and-earn](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0740-delete-and-earn) |
 | [0875-koko-eating-bananas](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0875-koko-eating-bananas) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0740-delete-and-earn) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
@@ -351,8 +353,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
