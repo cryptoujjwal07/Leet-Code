@@ -1,12 +1,12 @@
 class Solution {
     public int deleteAndEarn(int[] nums) {
         int max = 0;
-        for(int num : nums){
-            max = Math.max(max, num);
+        for(int x : nums){
+            max = Math.max(max, x);
         }
         int[] freq = new int[max + 1];
-        for(int num : nums){
-            freq[num]++;
+        for(int x : nums){
+            freq[x]++;
         }
         int prev2 = 0;
         int prev1 = 0;
