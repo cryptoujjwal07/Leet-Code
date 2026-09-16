@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0076-minimum-window-substring) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0740-delete-and-earn) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0076-minimum-window-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0076-minimum-window-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## DP on Trees
