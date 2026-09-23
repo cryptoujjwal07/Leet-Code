@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0875-koko-eating-bananas) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0740-delete-and-earn) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0076-minimum-window-substring) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## DP on Trees
