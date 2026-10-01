@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0146-lru-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0740-delete-and-earn) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0146-lru-cache) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -373,4 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
