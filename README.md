@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0740-delete-and-earn) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
