@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0412-fizz-buzz) |
+| [0856-score-of-parentheses](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
