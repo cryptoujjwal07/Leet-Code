@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Combinatorics
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0477-total-hamming-distance) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
