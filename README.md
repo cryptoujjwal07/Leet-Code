@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
