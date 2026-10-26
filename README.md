@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
