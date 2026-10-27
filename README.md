@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0477-total-hamming-distance) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0788-rotated-digits](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0740-delete-and-earn) |
+| [0788-rotated-digits](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0788-rotated-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
