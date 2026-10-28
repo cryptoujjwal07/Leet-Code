@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0322-coin-change) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0678-valid-parenthesis-string) |
