@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
