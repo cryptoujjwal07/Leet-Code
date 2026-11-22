@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2376-count-special-integers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2376-count-special-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0740-delete-and-earn) |
 | [0788-rotated-digits](https://github.com/cryptoujjwal07/Leet-Code/tree/master/0788-rotated-digits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/cryptoujjwal07/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2376-count-special-integers](https://github.com/cryptoujjwal07/Leet-Code/tree/master/2376-count-special-integers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cryptoujjwal07/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
